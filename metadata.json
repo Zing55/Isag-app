@@ -1,0 +1,6 @@
+{
+  "name": "Gestão de Turismo ISAG - App de Estudo",
+  "description": "Aplicativo inteligente de estudo para o CTeSP em Gestão de Turismo do ISAG Porto, com aulas estruturadas em 5 parágrafos, repetição espaçada SM-2 e resumos inteligentes.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
